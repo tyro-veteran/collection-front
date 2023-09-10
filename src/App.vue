@@ -6,7 +6,6 @@ import Layout from './components/layout/Layout.vue'
 
 <template>
   <Layout />
-  <!-- <RouterView /> -->
 </template>
 
 <style scoped>
